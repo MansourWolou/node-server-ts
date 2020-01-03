@@ -29,4 +29,7 @@ les dépendances suivante : @types/express et @types/node  permettent d'avoir ac
 
 # warning
 
-le compilateur javascript peut parfois être lent . solution : ctrl+shift+p 
+le compilateur javascript peut parfois être lent . solution :relancer le compilateur typescript
+ ctrl+shift+p puis select typecript restart server /* je sais pas prq la commande marche pas chez moi mais t'as compris l'idée */
+
+ # le type Any permet d'échapper au typage typescript
